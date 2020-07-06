@@ -8,28 +8,17 @@ git clone repository
 
 ### Prerequisites
 
-Recommend Using the docker method
-
 node js needs to be installed in order to use the npm
-
---or--
 
 Docker need to install to use docker
 
 
 ### Installing
 
-After cloning repository depending on what you have either node or docker use one of the below commands to start up the app
+After cloning repository 
 
 ```
-#Node.js example
 $ npm install && cd client && npm install
-$ npm run dev
-```
-
-
-```
-#Docker example
 $ docker-compose up
 ```
 
