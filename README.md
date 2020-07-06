@@ -1,4 +1,4 @@
-# coffee_shop_app
+\# coffee_shop_app
 
 Simple web app example for coffee shop page
 
@@ -7,6 +7,8 @@ Simple web app example for coffee shop page
 git clone repository
 
 ### Prerequisites
+
+Recommend Using the docker method
 
 node js needs to be installed in order to use the npm
 
