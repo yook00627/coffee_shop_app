@@ -29,7 +29,7 @@ const Popup = ({closePopup}) => {
           <input id="menus" name="menus" type="text" />
           <br />
           <label>Status of Shop:</label>
-          <input id="status" name="status" type="checkbox" />
+          <input id="status" name="status" type="checkbox" defaultChecked />
           <br />
           <button>Submit</button>
         </form>
