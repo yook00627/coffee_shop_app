@@ -1,0 +1,45 @@
+.App {
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+}
+
+h1, h2, h3 {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  display: block;
+  text-align: center;
+  list-style: outside;
+}
+
+.filter{
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.filterCheckbox {
+  padding: 10px;
+}
+
+.addNewShops {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shops {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.shop {
+  padding: 15px;
+  background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
