@@ -6,9 +6,10 @@ Simple web app example for coffee shop page
 
 git clone repository
 
+
 ### Prerequisites
 
-node js needs to be installed in order to use the npm
+Node.js needs to be installed in order to use the npm
 
 Docker need to install to use docker
 
@@ -19,7 +20,7 @@ After cloning repository
 
 ```
 $ npm install && cd client && npm install
-$ docker-compose up
+$ docker-compose -f --build
 ```
 
 
